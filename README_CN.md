@@ -5,7 +5,8 @@
   <p>启动一个 leader，把任务分给配置好的 worker，对话保留在 tmux pane 里。</p>
   <p>
     <a href="./README.md">English</a> ·
-    <strong>简体中文</strong>
+    <strong>简体中文</strong> ·
+    <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/version-0.1.1-7C3AED?style=flat-square" alt="Version">
